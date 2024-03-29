@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['234704535241', 'EXCEL', true], 
-  ['2348021779696', 'EXCEL', true], 
-  ['234704503541', '⚡Excel', true],
+  ['254700569709', 'GEE', true], 
+  ['254794286079', 'MKUU', true], 
+  ['254757422843', '⚡gee', true],
 
 ] //Number of owners
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "254700569709" //put your bot number here
 
 global.mods = ['2341', '2348021779696', '2347045035241','233533763772'] 
 global.prems = ['2347045035241','233208179431','233533763772']
@@ -52,26 +52,26 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'STAR-MD-V2'
+global.botname = '★彡ＮＯＮＳＥＮＳＥ 彡★'
 global.premium = 'true'
-global.packname = 'STAR-MD' 
-global.author = '@Excel' 
-global.menuvid = 'https://i.imgur.com/BPqmxsm.mp4'
-global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
-global.dygp='▢✓ Follow My channel\nhttps://chat.whatsapp.com/Lg0lY4M1k8oDMYzylg86xs\n'
-global.fgsc = 'https://github.com/Xcelsama/STAR-MD-V2' 
-global.fgyt = 'https://chat.whatsapp.com/EmP3syvou18HrZk6R6nTAK'
-global.fgpyp = 'https://chat.whatsapp.com/EmP3syvou18HrZk6R6nTAK'
-global.fglog = 'STAR.jpg' 
-global.thumb = fs.readFileSync('./STAR.jpg')
+global.packname = 'just me' 
+global.author = '@gee' 
+global.menuvid = 'https://telegra.ph/file/45040426cb67297d211b8.jpg'
+global.igfg = '▢✓ dm for save for save\nhttps://whatsapp.com/chat/254700569709?text=hey+gee\n' 
+global.dygp='▢✓ save my other number\nhttps://whatsapp.com/chat/254794286079?text=hey+gee\n'
+global.fgsc = 'https://github.com/Geemkuu/STAR-MD-V2' 
+global.fgyt = 'https://whatsapp.com/chat/254700569709?text=hey+gee+i+am+impressed+by+you,+i+want+to+save+your+contact'
+global.fgpyp = 'https://chat.whatsapp.com/254700569709?text=hey+gee'
+global.fglog = 'https://telegra.ph/file/45040426cb67297d211b8.jpg' 
+global.thumb = 'https://telegra.ph/file/45040426cb67297d211b8.jpg'
 
 
-global.wait = '*🕣 _STAR IS LOADING..._*\n*▰▰▰▱▱▱▱▱⭐*'
-global.rwait = '🔜'
-global.dmoji = '⚡'
-global.done = '☑️'
-global.error = '❎' 
-global.xmoji = '⤵️' 
+global.wait = '*🕣your nonsense IS LOADING..._*\n*▰▰▰▱▱▱▱▱⭐*'
+global.rwait = '🎧'
+global.dmoji = '🙃'
+global.done = '😌'
+global.error = '😂' 
+global.xmoji = '😒' 
 
 global.multiplier = 69 
 global.maxwarn = '3' // máxima advertencias
